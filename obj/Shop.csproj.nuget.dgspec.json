@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.tavares\\Desktop\\Lucas\\Projetos\\CQRS\\Shop\\Shop.csproj": {}
+    "E:\\Shop_Api\\Shop_Api\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.tavares\\Desktop\\Lucas\\Projetos\\CQRS\\Shop\\Shop.csproj": {
+    "E:\\Shop_Api\\Shop_Api\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.tavares\\Desktop\\Lucas\\Projetos\\CQRS\\Shop\\Shop.csproj",
+        "projectUniqueName": "E:\\Shop_Api\\Shop_Api\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\lucas.tavares\\Desktop\\Lucas\\Projetos\\CQRS\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\lucas.tavares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.tavares\\Desktop\\Lucas\\Projetos\\CQRS\\Shop\\obj\\",
+        "projectPath": "E:\\Shop_Api\\Shop_Api\\Shop.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "E:\\Shop_Api\\Shop_Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas.tavares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,6 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
