@@ -31,3 +31,6 @@ E:\Shop_Api\Shop_Api\obj\Debug\net7.0\refint\Shop.dll
 E:\Shop_Api\Shop_Api\obj\Debug\net7.0\Shop.pdb
 E:\Shop_Api\Shop_Api\obj\Debug\net7.0\Shop.genruntimeconfig.cache
 E:\Shop_Api\Shop_Api\obj\Debug\net7.0\ref\Shop.dll
+E:\Shop_Api\Shop_Api\bin\Debug\net7.0\MediatR.dll
+E:\Shop_Api\Shop_Api\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\Shop_Api\Shop_Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
